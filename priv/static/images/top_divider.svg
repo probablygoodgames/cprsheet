@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg3206"
+   width="2395.834"
+   height="32.213257"
+   viewBox="0 0 2395.834 32.213257"
+   sodipodi:docname="Cyberpunk UI Small Set.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3210" />
+  <sodipodi:namedview
+     id="namedview3208"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g3214"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-85.622002,94.182495)">
+    <g
+       id="g3218"
+       transform="translate(110.2544,70.6369)"
+       inkscape:export-filename="top_divider.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 0,0 23.243,-23.242 h 393.289 l -5.505,5.505 H 197.562 L 187.47,-7.646 h -62.082 l -7.493,7.494 z"
+         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3220" />
+    </g>
+    <g
+       id="g3222"
+       transform="translate(110.2544,70.6369)">
+      <path
+         d="m 0,0 23.242,-23.242 h 393.29 l -5.505,5.505 H 197.562 L 187.47,-7.646 h -62.082 l -7.493,7.494 z m 1.259,-0.522 116.42,-0.152 7.34,-7.34 0.153,-0.153 h 0.216 61.866 l 9.94,-9.939 0.153,-0.153 h 0.215 213.25 l 4.462,-4.463 H 23.458 Z"
+         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3224" />
+    </g>
+    <g
+       id="g3226"
+       transform="translate(103.2998,70.6369)">
+      <path
+         d="M 0,0 23.639,-24.16 H 8.042 L -15.66,-0.459 Z"
+         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3228" />
+    </g>
+    <g
+       id="g3230"
+       transform="translate(103.2998,70.6369)">
+      <path
+         d="M 0,0 -15.66,-0.459 8.042,-24.16 H 23.639 Z M -0.213,-0.527 22.4,-23.639 H 8.258 l -22.696,22.695 z"
+         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3232" />
+    </g>
+    <g
+       id="g3234"
+       transform="translate(79.8755,70.6369)">
+      <path
+         d="M 0,0 23.639,-24.16 H 8.042 l -23.701,23.701 z"
+         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3236" />
+    </g>
+    <g
+       id="g3238"
+       transform="translate(79.8755,70.6369)">
+      <path
+         d="M 0,0 -15.659,-0.459 8.042,-24.16 H 23.639 Z M -0.213,-0.527 22.4,-23.639 H 8.258 l -22.695,22.695 z"
+         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3240" />
+    </g>
+    <path
+       d="M 1861.092,47.185 H 520.652 v 1.229 h 1340.44 z"
+       style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3242" />
+  </g>
+</svg>
